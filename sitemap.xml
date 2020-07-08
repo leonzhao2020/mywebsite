@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://leonzhao.tk/categories/</loc>
+    <loc>http://nc.leonzhao.tk:8080/categories/</loc>
   </url>
   
   <url>
-    <loc>https://leonzhao.tk/</loc>
+    <loc>http://nc.leonzhao.tk:8080/</loc>
   </url>
   
   <url>
-    <loc>https://leonzhao.tk/moods/</loc>
+    <loc>http://nc.leonzhao.tk:8080/moods/</loc>
   </url>
   
   <url>
-    <loc>https://leonzhao.tk/tags/</loc>
+    <loc>http://nc.leonzhao.tk:8080/tags/</loc>
   </url>
   
 </urlset>
